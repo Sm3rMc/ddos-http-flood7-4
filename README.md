@@ -6,7 +6,7 @@ A powerful tool with proxies
 
 $ git clone https://github.com/Sm3rMc/ddos-smer
 
-$ cd ddos-smer
+$ cd ddos-http-flood7-4
 
 $ python3 attack.py
 
