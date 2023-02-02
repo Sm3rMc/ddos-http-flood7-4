@@ -8,7 +8,7 @@ $ git clone https://github.com/Sm3rMc/ddos-http-flood7-4
 
 $ cd ddos-http-flood7-4
 
-$ python3 attack.py
+$ python3 at.py
 
            
  Me: https://t.me/imsmer
